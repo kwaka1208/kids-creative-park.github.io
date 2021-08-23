@@ -94,8 +94,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: ja-JP # Set the site language
 title: "子どもクリエイティブパーク" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/kcp-logo-ca.svg" # Site logo, also used in jekyll-seo-tag
-description: "" # Site description and default description, also used in jekyll-seo-tag
+logo: "/assets/logos/icon-72x72.png" # Site logo, also used in jekyll-seo-tag
+description: "Kids Creative Park" # Site description and default description, also used in jekyll-seo-tag
 url: "https://kids-creative-park.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/kids-creative-park/kids-creative-park.github.io"
@@ -120,7 +120,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Contact
-  url: /
+  url: "mailto:kids.creative.park@gmail.com"
 
 navigation_footer:
 - title: Kids Creative Park
